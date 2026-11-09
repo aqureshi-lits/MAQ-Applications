@@ -1,2 +1,0 @@
-# MAQ-Applications
-MAQ-Applications
